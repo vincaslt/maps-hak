@@ -1,394 +1,100 @@
-[
-  {
-    "name": "Fredensborg Kommune",
-    "color": 112.94117647058823
-  },
-  {
-    "name": "Fredericia Kommune",
-    "color": 118.18731117824774
-  },
-  {
-    "name": "Frederikshavn Kommune",
-    "color": 118.3271375464684
-  },
-  {
-    "name": "Frederikssund Kommune",
-    "color": 119.26229508196721
-  },
-  {
-    "name": "Lejre Kommune",
-    "color": 118.27338129496403
-  },
-  {
-    "name": "Jammerbugt Kommune",
-    "color": 120
-  },
-  {
-    "name": "Kalundborg Kommune",
-    "color": 119.88774555659495
-  },
-  {
-    "name": "Skive Kommune",
-    "color": 119.60396039603961
-  },
-  {
-    "name": "Slagelse Kommune",
-    "color": 119.49152542372882
-  },
-  {
-    "name": "Solrød Kommune",
-    "color": 113.84615384615384
-  },
-  {
-    "name": "Furesø Kommune",
-    "color": 115.6701030927835
-  },
-  {
-    "name": "Gentofte Kommune",
-    "color": 66.96132596685082
-  },
-  {
-    "name": "Høje-Taastrup Kommune",
-    "color": 119.00826446280992
-  },
-  {
-    "name": "Holbæk Kommune",
-    "color": 119.35047361299053
-  },
-  {
-    "name": "Holstebro Kommune",
-    "color": 119.64285714285714
-  },
-  {
-    "name": "Horsens Kommune",
-    "color": 119.29824561403508
-  },
-  {
-    "name": "Hørsholm Kommune",
-    "color": 91.57894736842105
-  },
-  {
-    "name": "Ringsted Kommune",
-    "color": 120
-  },
-  {
-    "name": "Halsnæs Kommune",
-    "color": 119.28783382789318
-  },
-  {
-    "name": "Hedensted Kommune",
-    "color": 119.00826446280992
-  },
-  {
-    "name": "Helsingør Kommune",
-    "color": 112.42320819112628
-  },
-  {
-    "name": "Langeland Kommune",
-    "color": 120
-  },
-  {
-    "name": "Assens Kommune",
-    "color": 120
-  },
-  {
-    "name": "Roskilde Kommune",
-    "color": 118.07339449541284
-  },
-  {
-    "name": "Rudersdal Kommune",
-    "color": 92.13849287169043
-  },
-  {
-    "name": "Samsø Kommune",
-    "color": 118.9090909090909
-  },
-  {
-    "name": "Silkeborg Kommune",
-    "color": 118.32976445396146
-  },
-  {
-    "name": "Skanderborg Kommune",
-    "color": 118.81656804733728
-  },
-  {
-    "name": "Greve Kommune",
-    "color": 118.92857142857143
-  },
-  {
-    "name": "Lemvig Kommune",
-    "color": 120
-  },
-  {
-    "name": "Lolland Kommune",
-    "color": 120
-  },
-  {
-    "name": "Lyngby-Taarbæk Kommune",
-    "color": 105.61797752808988
-  },
-  {
-    "name": "Mariagerfjord Kommune",
-    "color": 120
-  },
-  {
-    "name": "Middelfart Kommune",
-    "color": 119.07335907335907
-  },
-  {
-    "name": "Morsø Kommune",
-    "color": 120
-  },
-  {
-    "name": "Aabenraa Kommune",
-    "color": 119.5190380761523
-  },
-  {
-    "name": "Aalborg Kommune",
-    "color": 118.90243902439025
-  },
-  {
-    "name": "Aarhus Kommune",
-    "color": 114.71113758189398
-  },
-  {
-    "name": "Ærø Kommune",
-    "color": 120
-  },
-  {
-    "name": "Næstved Kommune",
-    "color": 119.81981981981981
-  },
-  {
-    "name": "Norddjurs Kommune",
-    "color": 120
-  },
-  {
-    "name": "Nordfyns Kommune",
-    "color": 120
-  },
-  {
-    "name": "Nyborg Kommune",
-    "color": 118.21561338289963
-  },
-  {
-    "name": "Odder Kommune",
-    "color": 119.61538461538461
-  },
-  {
-    "name": "Odense Kommune",
-    "color": 117.16981132075472
-  },
-  {
-    "name": "Odsherred Kommune",
-    "color": 119.50052029136316
-  },
-  {
-    "name": "Ringkøbing-Skjern Kommune",
-    "color": 120
-  },
-  {
-    "name": "Faaborg-Midtfyn Kommune",
-    "color": 119.63020030816641
-  },
-  {
-    "name": "Fanø Kommune",
-    "color": 119.17241379310344
-  },
-  {
-    "name": "Albertslund Kommune",
-    "color": 120
-  },
-  {
-    "name": "Allerød Kommune",
-    "color": 118.93805309734513
-  },
-  {
-    "name": "Ballerup Kommune",
-    "color": 119.17808219178082
-  },
-  {
-    "name": "Billund Kommune",
-    "color": 120
-  },
-  {
-    "name": "Bornholms Regionskommune",
-    "color": 120
-  },
-  {
-    "name": "Favrskov Kommune",
-    "color": 119.35135135135135
-  },
-  {
-    "name": "Faxe Kommune",
-    "color": 120
-  },
-  {
-    "name": "Randers Kommune",
-    "color": 119.86970684039088
-  },
-  {
-    "name": "Rebild Kommune",
-    "color": 120
-  },
-  {
-    "name": "Brøndby Kommune",
-    "color": 120
-  },
-  {
-    "name": "Brønderslev Kommune",
-    "color": 119.43127962085308
-  },
-  {
-    "name": "Københavns Kommune",
-    "color": 107.0205307961943
-  },
-  {
-    "name": "Dragør Kommune",
-    "color": 110.9090909090909
-  },
-  {
-    "name": "Egedal Kommune",
-    "color": 119.44444444444444
-  },
-  {
-    "name": "Esbjerg Kommune",
-    "color": 119.26940639269407
-  },
-  {
-    "name": "Frederiksberg Kommune",
-    "color": 105
-  },
-  {
-    "name": "Læsø Kommune",
-    "color": 119.04761904761905
-  },
-  {
-    "name": "Glostrup Kommune",
-    "color": 120
-  },
-  {
-    "name": "Gribskov Kommune",
-    "color": 114.09028727770178
-  },
-  {
-    "name": "Guldborgsund Kommune",
-    "color": 119.89159891598916
-  },
-  {
-    "name": "Haderslev Kommune",
-    "color": 119.59663865546219
-  },
-  {
-    "name": "Hjørring Kommune",
-    "color": 119.63105303612606
-  },
-  {
-    "name": "Gladsaxe Kommune",
-    "color": 114.50381679389314
-  },
-  {
-    "name": "Kerteminde Kommune",
-    "color": 119.49367088607595
-  },
-  {
-    "name": "Køge Kommune",
-    "color": 117.39837398373983
-  },
-  {
-    "name": "Kolding Kommune",
-    "color": 118.107752956636
-  },
-  {
-    "name": "Herlev Kommune",
-    "color": 120
-  },
-  {
-    "name": "Herning Kommune",
-    "color": 119.57295373665481
-  },
-  {
-    "name": "Hillerød Kommune",
-    "color": 118.63636363636364
-  },
-  {
-    "name": "Hvidovre Kommune",
-    "color": 119.06976744186046
-  },
-  {
-    "name": "Ikast-Brande Kommune",
-    "color": 119.66386554621849
-  },
-  {
-    "name": "Ishøj Kommune",
-    "color": 117.17647058823529
-  },
-  {
-    "name": "Rødovre Kommune",
-    "color": 119.19463087248322
-  },
-  {
-    "name": "Sønderborg Kommune",
-    "color": 119.64653902798233
-  },
-  {
-    "name": "Sorø Kommune",
-    "color": 120
-  },
-  {
-    "name": "Stevns Kommune",
-    "color": 117.66536964980544
-  },
-  {
-    "name": "Struer Kommune",
-    "color": 119.70731707317073
-  },
-  {
-    "name": "Svendborg Kommune",
-    "color": 117.8
-  },
-  {
-    "name": "Syddjurs Kommune",
-    "color": 118.59723698193412
-  },
-  {
-    "name": "Tårnby Kommune",
-    "color": 120
-  },
-  {
-    "name": "Thisted Kommune",
-    "color": 120
-  },
-  {
-    "name": "Tønder Kommune",
-    "color": 119.78835978835978
-  },
-  {
-    "name": "Vallensbæk Kommune",
-    "color": 118.18181818181819
-  },
-  {
-    "name": "Varde Kommune",
-    "color": 119.73362930077691
-  },
-  {
-    "name": "Vejen Kommune",
-    "color": 120
-  },
-  {
-    "name": "Vejle Kommune",
-    "color": 117.77319587628865
-  },
-  {
-    "name": "Vesthimmerlands Kommune",
-    "color": 119.79310344827586
-  },
-  {
-    "name": "Viborg Kommune",
-    "color": 119.45288753799392
-  },
-  {
-    "name": "Vordingborg Kommune",
-    "color": 119.79094076655052
-  }
-]
+{
+  "Fredensborg Kommune": 112.94117647058823,
+  "Fredericia Kommune": 118.18731117824774,
+  "Frederikshavn Kommune": 118.3271375464684,
+  "Frederikssund Kommune": 119.26229508196721,
+  "Lejre Kommune": 118.27338129496403,
+  "Jammerbugt Kommune": 120,
+  "Kalundborg Kommune": 119.88774555659495,
+  "Skive Kommune": 119.60396039603961,
+  "Slagelse Kommune": 119.49152542372882,
+  "Solrød Kommune": 113.84615384615384,
+  "Furesø Kommune": 115.6701030927835,
+  "Gentofte Kommune": 66.96132596685082,
+  "Høje-Taastrup Kommune": 119.00826446280992,
+  "Holbæk Kommune": 119.35047361299053,
+  "Holstebro Kommune": 119.64285714285714,
+  "Horsens Kommune": 119.29824561403508,
+  "Hørsholm Kommune": 91.57894736842105,
+  "Ringsted Kommune": 120,
+  "Halsnæs Kommune": 119.28783382789318,
+  "Hedensted Kommune": 119.00826446280992,
+  "Helsingør Kommune": 112.42320819112628,
+  "Langeland Kommune": 120,
+  "Assens Kommune": 120,
+  "Roskilde Kommune": 118.07339449541284,
+  "Rudersdal Kommune": 92.13849287169043,
+  "Samsø Kommune": 118.9090909090909,
+  "Silkeborg Kommune": 118.32976445396146,
+  "Skanderborg Kommune": 118.81656804733728,
+  "Greve Kommune": 118.92857142857143,
+  "Lemvig Kommune": 120,
+  "Lolland Kommune": 120,
+  "Lyngby-Taarbæk Kommune": 105.61797752808988,
+  "Mariagerfjord Kommune": 120,
+  "Middelfart Kommune": 119.07335907335907,
+  "Morsø Kommune": 120,
+  "Aabenraa Kommune": 119.5190380761523,
+  "Aalborg Kommune": 118.90243902439025,
+  "Aarhus Kommune": 114.71113758189398,
+  "Ærø Kommune": 120,
+  "Næstved Kommune": 119.81981981981981,
+  "Norddjurs Kommune": 120,
+  "Nordfyns Kommune": 120,
+  "Nyborg Kommune": 118.21561338289963,
+  "Odder Kommune": 119.61538461538461,
+  "Odense Kommune": 117.16981132075472,
+  "Odsherred Kommune": 119.50052029136316,
+  "Ringkøbing-Skjern Kommune": 120,
+  "Faaborg-Midtfyn Kommune": 119.63020030816641,
+  "Fanø Kommune": 119.17241379310344,
+  "Albertslund Kommune": 120,
+  "Allerød Kommune": 118.93805309734513,
+  "Ballerup Kommune": 119.17808219178082,
+  "Billund Kommune": 120,
+  "Bornholms Regionskommune": 120,
+  "Favrskov Kommune": 119.35135135135135,
+  "Faxe Kommune": 120,
+  "Randers Kommune": 119.86970684039088,
+  "Rebild Kommune": 120,
+  "Brøndby Kommune": 120,
+  "Brønderslev Kommune": 119.43127962085308,
+  "Københavns Kommune": 107.0205307961943,
+  "Dragør Kommune": 110.9090909090909,
+  "Egedal Kommune": 119.44444444444444,
+  "Esbjerg Kommune": 119.26940639269407,
+  "Frederiksberg Kommune": 105,
+  "Læsø Kommune": 119.04761904761905,
+  "Glostrup Kommune": 120,
+  "Gribskov Kommune": 114.09028727770178,
+  "Guldborgsund Kommune": 119.89159891598916,
+  "Haderslev Kommune": 119.59663865546219,
+  "Hjørring Kommune": 119.63105303612606,
+  "Gladsaxe Kommune": 114.50381679389314,
+  "Kerteminde Kommune": 119.49367088607595,
+  "Køge Kommune": 117.39837398373983,
+  "Kolding Kommune": 118.107752956636,
+  "Herlev Kommune": 120,
+  "Herning Kommune": 119.57295373665481,
+  "Hillerød Kommune": 118.63636363636364,
+  "Hvidovre Kommune": 119.06976744186046,
+  "Ikast-Brande Kommune": 119.66386554621849,
+  "Ishøj Kommune": 117.17647058823529,
+  "Rødovre Kommune": 119.19463087248322,
+  "Sønderborg Kommune": 119.64653902798233,
+  "Sorø Kommune": 120,
+  "Stevns Kommune": 117.66536964980544,
+  "Struer Kommune": 119.70731707317073,
+  "Svendborg Kommune": 117.8,
+  "Syddjurs Kommune": 118.59723698193412,
+  "Tårnby Kommune": 120,
+  "Thisted Kommune": 120,
+  "Tønder Kommune": 119.78835978835978,
+  "Vallensbæk Kommune": 118.18181818181819,
+  "Varde Kommune": 119.73362930077691,
+  "Vejen Kommune": 120,
+  "Vejle Kommune": 117.77319587628865,
+  "Vesthimmerlands Kommune": 119.79310344827586,
+  "Viborg Kommune": 119.45288753799392,
+  "Vordingborg Kommune": 119.79094076655052
+}

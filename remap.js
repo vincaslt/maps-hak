@@ -8,10 +8,12 @@ function resolveColor(colors) {
   return (greenCount * 120 + yellowCount * 60) / (greenCount + yellowCount + redCount)
 }
 
-const output = data.map(({ name, colors }) => ({
+const arr = data.map(({ name, colors }) => ({
   name,
   color: resolveColor(colors)
 }))
+
+const output = arr.reduce((obj, entry) => ({ ...obj, [entry.name]: entry.color }), {})
 
 fs.writeFileSync('output.json', JSON.stringify(output))
 console.log(output)
